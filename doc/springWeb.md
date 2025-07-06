@@ -13,9 +13,14 @@ controllers
 ## Jackson library 
  - json to java object serialization
 
+## @Configuration
+To set class as configuration class
+
 ## @RequestBody
+Decorate parameter to deserialize into object.
 
 ## @PathVariable
+Decorate parameter as primitive data type like int.
 
 ## @CrossOrigin
 Provide @CrossOrigin attribute at controller level
