@@ -1,5 +1,6 @@
-package com.prodtools.SecureApp;
+package com.prodtools.SecureApp.controller;
 
+import com.prodtools.SecureApp.model.Student;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.security.web.csrf.CsrfToken;
 import org.springframework.web.bind.annotation.GetMapping;

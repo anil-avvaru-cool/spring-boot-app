@@ -1,4 +1,4 @@
-package com.prodtools.SecureApp;
+package com.prodtools.SecureApp.model;
 
 public class Student {
     private int id;
